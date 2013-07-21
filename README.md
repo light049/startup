@@ -1,2 +1,2 @@
-bitstarter <master>
-=============
+bitstarter master
+=================
